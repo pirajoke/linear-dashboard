@@ -1,0 +1,427 @@
+{
+  "generated": "2026-03-30T14:56:07Z",
+  "feed": [
+    {
+      "ts": "2026-03-30 21:51:55",
+      "svc": "executor",
+      "type": "complete",
+      "icon": "🟡",
+      "msg": "PER-122 → needs-input",
+      "issue": "PER-122",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "ts": "2026-03-30 21:51:36",
+      "svc": "executor",
+      "type": "pick",
+      "icon": "🎯",
+      "msg": "Picked PER-122",
+      "detail": "Export all words from dictionary search history",
+      "issue": "PER-122",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:51:36",
+      "svc": "executor",
+      "type": "route",
+      "icon": "🔀",
+      "msg": "→ COORDINATOR",
+      "agent": "COORDINATOR",
+      "color": "#fb923c"
+    },
+    {
+      "ts": "2026-03-30 21:51:30",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-110 (max retries)",
+      "issue": "PER-110",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:51:24",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-117 (max retries)",
+      "issue": "PER-117",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:51:19",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-108 (max retries)",
+      "issue": "PER-108",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:51:13",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-130 (max retries)",
+      "issue": "PER-130",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:51:01",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-120 (max retries)",
+      "issue": "PER-120",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:50:56",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-121 (max retries)",
+      "issue": "PER-121",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:50:54",
+      "svc": "executor",
+      "type": "start",
+      "icon": "⚡",
+      "msg": "Executor cycle started",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:40:54",
+      "svc": "executor",
+      "type": "complete",
+      "icon": "🟡",
+      "msg": "PER-121 → needs-input",
+      "issue": "PER-121",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "ts": "2026-03-30 21:40:39",
+      "svc": "executor",
+      "type": "complete",
+      "icon": "🟡",
+      "msg": "PER-120 → needs-input",
+      "issue": "PER-120",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "ts": "2026-03-30 21:40:39",
+      "svc": "executor",
+      "type": "pick",
+      "icon": "🎯",
+      "msg": "Picked PER-121",
+      "detail": "Find alternative to API if no search history available",
+      "issue": "PER-121",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:40:39",
+      "svc": "executor",
+      "type": "route",
+      "icon": "🔀",
+      "msg": "→ RESEARCHER",
+      "agent": "RESEARCHER",
+      "color": "#fb923c"
+    },
+    {
+      "ts": "2026-03-30 21:40:22",
+      "svc": "executor",
+      "type": "pick",
+      "icon": "🎯",
+      "msg": "Picked PER-120",
+      "detail": "Check if Yandex Dictionary API returns search history",
+      "issue": "PER-120",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:40:22",
+      "svc": "executor",
+      "type": "route",
+      "icon": "🔀",
+      "msg": "→ COORDINATOR",
+      "agent": "COORDINATOR",
+      "color": "#fb923c"
+    },
+    {
+      "ts": "2026-03-30 21:40:14",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-130 (max retries)",
+      "issue": "PER-130",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:40:08",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-108 (max retries)",
+      "issue": "PER-108",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:40:02",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-117 (max retries)",
+      "issue": "PER-117",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:39:55",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-110 (max retries)",
+      "issue": "PER-110",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:39:52",
+      "svc": "executor",
+      "type": "start",
+      "icon": "⚡",
+      "msg": "Executor cycle started",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:29:52",
+      "svc": "executor",
+      "type": "complete",
+      "icon": "🟡",
+      "msg": "PER-123 → needs-input",
+      "issue": "PER-123",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "ts": "2026-03-30 21:29:32",
+      "svc": "executor",
+      "type": "pick",
+      "icon": "🎯",
+      "msg": "Picked PER-123",
+      "detail": "Save exported words to Obsidian with translations",
+      "issue": "PER-123",
+      "color": "#f97316"
+    },
+    {
+      "ts": "2026-03-30 21:29:32",
+      "svc": "executor",
+      "type": "route",
+      "icon": "🔀",
+      "msg": "→ VAULT",
+      "agent": "VAULT",
+      "color": "#fb923c"
+    },
+    {
+      "ts": "2026-03-30 21:29:29",
+      "svc": "executor",
+      "type": "triage",
+      "icon": "📥",
+      "msg": "Auto-triage: PER-123 → In Progress",
+      "issue": "PER-123",
+      "color": "#06b6d4"
+    },
+    {
+      "ts": "2026-03-30 21:29:12",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-110 (max retries)",
+      "issue": "PER-110",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:29:07",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-117 (max retries)",
+      "issue": "PER-117",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:29:02",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-108 (max retries)",
+      "issue": "PER-108",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 21:28:55",
+      "svc": "executor",
+      "type": "shelve",
+      "icon": "📦",
+      "msg": "Shelved PER-130 (max retries)",
+      "issue": "PER-130",
+      "color": "#71717a"
+    },
+    {
+      "ts": "2026-03-30 15:01:33",
+      "svc": "responder",
+      "type": "start",
+      "icon": "🔄",
+      "msg": "Responder scan",
+      "color": "#22c55e"
+    }
+  ],
+  "services": [
+    {
+      "name": "handy-voice-router",
+      "status": "running",
+      "pid": "773"
+    },
+    {
+      "name": "update-changelogs",
+      "status": "idle",
+      "pid": null
+    },
+    {
+      "name": "dashboard-server",
+      "status": "running",
+      "pid": "761"
+    },
+    {
+      "name": "codex-linear-executor",
+      "status": "error:124",
+      "pid": null
+    },
+    {
+      "name": "krisp-auto-import",
+      "status": "idle",
+      "pid": null
+    },
+    {
+      "name": "jarvis",
+      "status": "running",
+      "pid": "774"
+    },
+    {
+      "name": "linear-bot",
+      "status": "running",
+      "pid": "23482"
+    },
+    {
+      "name": "traction-bot",
+      "status": "running",
+      "pid": "784"
+    },
+    {
+      "name": "generate-live-feed",
+      "status": "running",
+      "pid": "43965"
+    },
+    {
+      "name": "claude-evening-summary",
+      "status": "idle",
+      "pid": null
+    },
+    {
+      "name": "log-rotate",
+      "status": "idle",
+      "pid": null
+    },
+    {
+      "name": "claude-autonomous-executor",
+      "status": "idle",
+      "pid": null
+    },
+    {
+      "name": "claude-nightly-report",
+      "status": "idle",
+      "pid": null
+    }
+  ],
+  "in_progress": [
+    {
+      "id": "PER-122",
+      "title": "Export all words from dictionary search history",
+      "priority": 0,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-110",
+      "title": "Create weekly cycle W14 in Linear",
+      "priority": 0,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-117",
+      "title": "Delete untracked mp4 files from gptapbot-demo",
+      "priority": 2,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-108",
+      "title": "Delete temporary API scripts from ~/.claude/",
+      "priority": 2,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-130",
+      "title": "Investigate monitoring alert with subsequent self-",
+      "priority": 0,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-120",
+      "title": "Check if Yandex Dictionary API returns search hist",
+      "priority": 0,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-121",
+      "title": "Find alternative to API if no search history avail",
+      "priority": 0,
+      "state": "In Progress"
+    },
+    {
+      "id": "PER-123",
+      "title": "Save exported words to Obsidian with translations",
+      "priority": 0,
+      "state": "In Progress"
+    }
+  ],
+  "active_tasks": [
+    {
+      "issue": "PER-122",
+      "detail": "Export all words from dictionary search history",
+      "agent": "COORDINATOR",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "issue": "PER-121",
+      "detail": "Find alternative to API if no search history available",
+      "agent": "COORDINATOR",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "issue": "PER-120",
+      "detail": "Check if Yandex Dictionary API returns search history",
+      "agent": "COORDINATOR",
+      "status": "needs-input",
+      "color": "#eab308"
+    },
+    {
+      "issue": "PER-123",
+      "detail": "Save exported words to Obsidian with translations",
+      "agent": "COORDINATOR",
+      "status": "needs-input",
+      "color": "#eab308"
+    }
+  ]
+}
