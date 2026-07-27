@@ -1,7 +1,13 @@
 # linear-dashboard
 
-Static GitHub Pages snapshot for the Linear agent dashboard.
+Archived compatibility redirect for the former Linear agent dashboard.
 
-Files:
-- `index.html` — dashboard UI
-- `live-feed.json` — latest published snapshot of the live feed
+The maintained dashboard moved to:
+
+- repository: <https://github.com/pirajoke/agent-dashboard>
+- live site: <https://pirajoke.github.io/agent-dashboard/>
+
+The old GitHub Pages URL remains a redirect so existing bookmarks continue to
+work. `live-feed.json` is retained only as a historical snapshot.
+
+Recovery: unarchive this repository if the redirect ever needs to be changed.
